@@ -1,0 +1,2 @@
+# particle.js
+A lot of tiny particles moving around and interacting with each other or with you have a certain appeal to them. If you are ever in a situation where you need to work with a lot of particles, Particles.js will serve you well. As is evident from the name, it is a JavaScript library that can help you create particle systems. Moreover, it is lightweight, easy to use, and gives you a lot of control. 
